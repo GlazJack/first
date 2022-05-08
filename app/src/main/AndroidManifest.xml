@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ItProger">
         <activity
+            android:name=".Push"
+            android:exported="true" />
+        <activity
             android:name=".Regict"
             android:exported="true" />
         <activity
